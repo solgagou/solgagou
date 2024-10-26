@@ -17,5 +17,5 @@
 
 ### 👋 Acá puedes saber más sobre mí:
 * :seedling: Estoy constantemente practicando y aprendiendo desarrollo frontend y backend
-* :mailbox: Me puedes contactar en: 
+* :mailbox: Me puedes contactar en: solgago@gmail.com
 * :heartbeat: Mi otra pasión es el teatro
