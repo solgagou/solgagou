@@ -13,7 +13,7 @@
 
 ---
 
-### 👋
+### 👋 Acá puedes saber más sobre mí:
 * :seedling: Estoy constantemente practicando y aprendiendo desarrollo frontend y backend
 * :mailbox: Me puedes contactar en: 
 * :heartbeat: Mi otra pasión es el teatro
