@@ -2,7 +2,9 @@
   <img decoding="async" src="https://github.com/user-attachments/assets/f1f03d5c-2b4b-464b-b08a-4d280cd0b4eb" width="800"/>
 </div>
 
+<div align="center">
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solgagou/)
+</div>
 
 <h1>
   Hola soy Sol. ¡Encantada de conocerte!
