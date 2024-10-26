@@ -11,9 +11,7 @@
 
 ### 👋 Acá puedes saber más sobre mí:
 * :seedling: Estoy constantemente practicando y aprendiendo desarrollo frontend y backend
-* :mailbox: Me puedes contactar en: <a href="https://www.linkedin.com/in/solgagou/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90"/>
-  </a>
+* :mailbox: Me puedes contactar en: solgagou@gmail.com
 * :heartbeat: Mi otra pasión es el teatro
 
 ---
