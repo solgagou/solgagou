@@ -10,9 +10,9 @@
 ---
 
 ### 👋 Acá puedes saber más sobre mí:
-* :seedling: Estoy constantemente practicando y aprendiendo desarrollo frontend y backend
+* :seedling: Soy una desarrolladora web apasionada por la creación de experiencias digitales atractivas y funcionales. Estoy constantemente practicando y aprendiendo tanto en **desarrollo frontend** como **backend**, lo que me permite tener una visión integral de los proyectos en los que trabajo. 
 * :mailbox: Me puedes contactar en: solgagou@gmail.com
-* :heartbeat: Mi otra pasión es el teatro
+* :heartbeat: Mi pasión por el **teatro** complementa mi trabajo en desarrollo web, ya que me ayuda a entender mejor la importancia de la narrativa y la experiencia del usuario. Creo que cada proyecto es una historia que merece ser contada de manera efectiva.
 
 ---
 
