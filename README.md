@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="[https://github.com/user-attachments/assets/f1f03d5c-2b4b-464b-b08a-4d280cd0b4eb](https://github.com/solgagou/solgagou/blob/main/banner%20para%20github%202.png?raw=true)" width="800"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/f1f03d5c-2b4b-464b-b08a-4d280cd0b4eb" width="800"/>
 </div>
 
 <h1>
