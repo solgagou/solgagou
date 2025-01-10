@@ -29,122 +29,99 @@
   </a>
 </div>
 
+
+
 # 📁 Mis Proyectos de Desarrollo
 
-Bienvenido a mi portafolio de proyectos. A continuación, encontrarás los desarrollos más representativos de mi trayectoria. Cada sección incluye una imagen del proyecto, una narrativa detallada sobre el contexto y los objetivos, así como conclusiones clave. Este portafolio está diseñado para ser claro y accesible, incluso para quienes no son expertos en tecnología.
+¡Hola! Bienvenido a mi portafolio de proyectos. Aquí comparto algunos de los trabajos que más he disfrutado desarrollar. Cada uno tiene una historia, un aprendizaje y un reto que me ayudó a crecer como desarrolladora. Espero que disfrutes este recorrido tanto como yo disfruté creándolos.
 
 ---
 
 ## 🌟 **Proyectos Destacados**
 
----
+<div style="background-color:#f8f9fa; padding: 20px; border-radius: 10px;">
 
-### 🎭 **Loop Teatral**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="./img/1LoopTeatral.png" width="400" height="250" alt="Loop Teatral"/>
-    </td>
-  </tr>
-</table>
-
-**Descripción:**  
-Loop Teatral es una plataforma diseñada para facilitar la exploración de obras teatrales en diversas ciudades y fechas. Los usuarios pueden buscar eventos filtrando por ubicación y fechas específicas, descubrir eventos destacados automáticamente y consultar información detallada de las obras con una interfaz interactiva. La idea principal detrás de Loop Teatral es conectar a los amantes del teatro con eventos culturales en sus localidades o destinos de viaje.
-
-**Herramientas utilizadas:**  
-React fue el framework principal para construir la interfaz interactiva y optimizar la experiencia del usuario. React Router permitió una navegación fluida entre las secciones del sitio. Además, se implementaron solicitudes HTTP con Axios para conectarse con APIs que proporcionan datos dinámicos.
-
-**Resultados:**  
-- La plataforma demostró ser intuitiva y eficiente: los usuarios encontraron eventos en menos de tres clics durante pruebas de usabilidad.  
-- Se optimizó la carga dinámica de datos, garantizando una experiencia fluida incluso en dispositivos de gama baja.  
-- El diseño responsive permitió que el sitio funcionara perfectamente en computadoras, tabletas y teléfonos móviles.  
-
-**Conclusión:**  
-Loop Teatral no solo facilitó la conexión entre espectadores y obras teatrales, sino que también reforzó mis habilidades técnicas en desarrollo front-end, diseño responsive y consumo de APIs. Este proyecto es una muestra de cómo la tecnología puede fomentar el arte y la cultura.
-
----
-
-### 🌍 **Around Project**
+### 🎭 **Loop Teatral** & 🌍 **Around Project**
 
 <table>
   <tr>
     <td align="center">
-      <img src="./img/Around.png" width="400" height="250" alt="Around Project"/>
+      <img src="./img/1LoopTeatral.png" width="300" height="200" alt="Loop Teatral"/>
+    </td>
+    <td align="center">
+      <img src="./img/Around.png" width="300" height="200" alt="Around Project"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Loop Teatral</strong>  
+      El teatro siempre ha sido una de mis grandes pasiones. Hay algo mágico en sentarse frente a un escenario y ver cómo las historias cobran vida. Quise llevar esa experiencia a una plataforma digital con **Loop Teatral**, una herramienta pensada para ayudar a los amantes del teatro a encontrar obras en su ciudad o donde estén planeando viajar.  
+
+      Este proyecto me permitió combinar mi amor por el arte con la tecnología, creando una aplicación que hace que explorar eventos teatrales sea fácil e intuitivo.  
+      **Resultados destacados:**  
+      - Diseño responsivo para adaptarse a cualquier dispositivo.  
+      - Interfaz súper intuitiva: los usuarios pueden encontrar obras en menos de tres clics.  
+      - Conexión directa con APIs para mostrar eventos en tiempo real.  
+
+      **Conclusión:** Loop Teatral es un proyecto que realmente disfruto mostrar, porque no solo demuestra mis habilidades técnicas, sino también mi interés por crear herramientas que conecten a las personas con el arte.  
+    </td>
+    <td>
+      <strong>Around Project</strong>  
+      Around es una red social que desarrollé pensando en cómo las personas comparten sus momentos a través de imágenes y comentarios. Es un espacio diseñado para que los usuarios se expresen de manera creativa, con un fuerte enfoque en la seguridad y la funcionalidad.  
+
+      **Características principales:**  
+      - Implementación de autenticación y autorización.  
+      - Arquitectura robusta full-stack con Node.js y MongoDB.  
+      - Un diseño moderno y minimalista que prioriza la usabilidad.  
+
+      **Conclusión:** Este proyecto fue todo un desafío, especialmente al trabajar con la conexión entre el back-end y el front-end, pero terminó siendo una gran experiencia para fortalecer mis habilidades como desarrolladora full-stack.  
     </td>
   </tr>
 </table>
 
-**Descripción:**  
-Around es una red social diseñada para compartir fotografías y experiencias entre amigos y conocidos. El proyecto abarca tanto el desarrollo front-end como el back-end. La plataforma incluye funcionalidades clave como autenticación de usuarios, autorización segura, carga de imágenes y un diseño visual interactivo.
-
-**Herramientas utilizadas:**  
-El desarrollo front-end se realizó con React y React Hooks para manejar estados de forma eficiente. En el back-end, se emplearon Node.js y Express para construir una REST API robusta y eficiente, mientras que MongoDB se utilizó como base de datos para almacenar los datos de los usuarios y las publicaciones. 
-
-**Resultados:**  
-- Implementación exitosa de un sistema de autenticación y autorización seguro.  
-- Creación de una interfaz dinámica e interactiva, alineada con los principios de usabilidad.  
-- Pruebas exhaustivas garantizaron una experiencia sin errores.  
-
-**Conclusión:**  
-Around fue una experiencia completa en desarrollo full-stack, consolidando mis conocimientos en tecnologías como Node.js, Express y React. Este proyecto me enseñó la importancia de construir sistemas seguros y amigables para el usuario.
-
 ---
 
-### 🏡 **From Homeland to Homeland**
+### 🏡 **From Homeland to Homeland** & ☕ **Triple Peaks Coffee Shop**
 
 <table>
   <tr>
     <td align="center">
-      <img src="./img/Homeland.png" width="400" height="250" alt="Homeland Project"/>
+      <img src="./img/Homeland.png" width="300" height="200" alt="Homeland Project"/>
     </td>
-  </tr>
-</table>
-
-**Descripción:**  
-Este proyecto tiene como objetivo informar sobre diferentes ciudades de una forma clara y visualmente atractiva. A través de un diseño adaptativo y minimalista, los usuarios pueden acceder a datos clave sobre distintas localidades. Desde la fase de diseño hasta la implementación, se priorizó la accesibilidad y la experiencia del usuario.
-
-**Herramientas utilizadas:**  
-Se trabajó con herramientas de prototipado y diseño como Figma para crear un esquema inicial y garantizar que el diseño fuera intuitivo. Luego, el proyecto fue desarrollado con HTML, CSS y JavaScript, asegurando un diseño responsivo para dispositivos de diferentes tamaños.
-
-**Resultados:**  
-- Un sitio web adaptativo que funciona correctamente en dispositivos móviles, tabletas y computadoras.  
-- Un diseño limpio y funcional que guía al usuario sin generar confusión.  
-- Despliegue exitoso en GitHub Pages, asegurando disponibilidad pública inmediata.
-
-**Conclusión:**  
-Este proyecto me permitió mejorar en el desarrollo de sitios web responsivos y en la utilización de herramientas de diseño visual como Figma. Es un ejemplo de cómo una buena planificación inicial puede influir en el éxito de un proyecto.
-
----
-
-### ☕ **Triple Peaks Coffee Shop**
-
-<table>
-  <tr>
     <td align="center">
-      <img src="./img/4cafe.png" width="400" height="250" alt="Triple Peaks Coffee Shop"/>
+      <img src="./img/4cafe.png" width="300" height="200" alt="Triple Peaks Coffee Shop"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>From Homeland to Homeland</strong>  
+      Este proyecto es una página web diseñada para resaltar la conexión entre las ciudades y las personas. Quería crear un espacio que mostrara cómo las ciudades pueden ser el punto de partida para nuevas historias y aventuras, y logré transmitir esa idea a través de un diseño claro y responsivo.  
+
+      **Aspectos destacados:**  
+      - Diseño adaptable que funciona perfectamente en cualquier dispositivo.  
+      - Uso de herramientas como Figma para crear un prototipo visual antes de empezar el desarrollo.  
+      - Implementación de HTML y CSS avanzados para un diseño limpio y profesional.  
+
+      **Conclusión:** Este proyecto me enseñó lo importante que es planificar el diseño antes de comenzar a escribir código. Fue una experiencia valiosa para mejorar mis habilidades en diseño web.  
+    </td>
+    <td>
+      <strong>Triple Peaks Coffee Shop</strong>  
+      Cuando trabajé en este proyecto, pensé en cómo quería que los usuarios se sintieran al visitar el sitio de su café favorito. La idea era transmitir calidez y profesionalismo en cada detalle del diseño, desde los menús interactivos hasta la estructura visual moderna.  
+
+      **Características principales:**  
+      - Diseño basado en CSS avanzado (Flexbox, BEM) para una experiencia visual atractiva.  
+      - Menús interactivos que hacen que explorar el sitio sea más divertido.  
+      - Una estructura sencilla pero efectiva para mostrar información relevante.  
+
+      **Conclusión:** Triple Peaks Coffee Shop fue mi oportunidad para perfeccionar mis habilidades en diseño visual y en la creación de sitios con una experiencia de usuario cuidada al detalle.  
     </td>
   </tr>
 </table>
 
-**Descripción:**  
-Triple Peaks Coffee Shop es un sitio web creado para un café de especialidad. Diseñado para ser moderno y funcional, incluye menús interactivos, secciones informativas y una estructura de página clara y atractiva.
-
-**Herramientas utilizadas:**  
-El sitio se desarrolló utilizando CSS avanzado con técnicas como Flexbox y la metodología BEM. También se implementaron interacciones básicas con JavaScript para mejorar la funcionalidad.
-
-**Resultados:**  
-- Creación de un diseño visualmente atractivo y funcional.  
-- Implementación exitosa de un menú interactivo.  
-- Consolidación de las habilidades de diseño web y estructura CSS.  
-
-**Conclusión:**  
-Este proyecto representó una oportunidad para experimentar con técnicas avanzadas de diseño CSS y mejorar en la implementación de funcionalidades básicas con JavaScript. Fue un paso importante en mi evolución como desarrolladora.
+</div>
 
 ---
 
 ## 📌 **Conclusión General**
 
-Estos proyectos muestran una progresión clara en mis habilidades como desarrolladora, desde conceptos básicos hasta aplicaciones full-stack completas. Cada proyecto representó un desafío único y una oportunidad para aprender herramientas y tecnologías nuevas. Estoy entusiasmada por seguir desarrollándome y enfrentar nuevos retos en el futuro.
-
----
+Estos proyectos representan una parte importante de mi camino como desarrolladora. Cada uno tiene su propia historia y aprendizaje, desde enfrentar problemas técnicos hasta encontrar formas creativas de conectar a las personas con las herramientas que necesitan. Espero que este portafolio refleje no solo mis habilidades, sino también mi entusiasmo por seguir aprendiendo y creando.
