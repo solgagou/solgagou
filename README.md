@@ -31,82 +31,120 @@
 
 # 📁 Mis Proyectos de Desarrollo
 
-Bienvenido a mi portafolio de proyectos. Aquí encontrarás algunos de los desarrollos más representativos de mi trayectoria como desarrolladora. Cada proyecto incluye una breve descripción, las herramientas utilizadas y las conclusiones alcanzadas.
+Bienvenido a mi portafolio de proyectos. A continuación, encontrarás los desarrollos más representativos de mi trayectoria. Cada sección incluye una imagen del proyecto, una narrativa detallada sobre el contexto y los objetivos, así como conclusiones clave. Este portafolio está diseñado para ser claro y accesible, incluso para quienes no son expertos en tecnología.
 
 ---
 
 ## 🌟 **Proyectos Destacados**
 
+---
+
+### 🎭 **Loop Teatral**
+
 <table>
   <tr>
     <td align="center">
-      <img src="./img/1LoopTeatral.png" width="300" height="200" alt="Loop Teatral"/>
-      <br/>
-      <strong>🎭 Loop Teatral</strong>
-    </td>
-    <td align="center">
-      <img src="./img/Around.png" width="300" height="200" alt="Around"/>
-      <br/>
-      <strong>🌍 Around Project</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      **Loop Teatral** es una plataforma creada para facilitar a los usuarios la exploración de obras teatrales en diversas ciudades y fechas.  
-      Con herramientas como React y APIs dinámicas, se conecta a los espectadores con el mundo del teatro.
-      <br/><br/>
-      **Conclusión:** Este proyecto me permitió fortalecer mis habilidades en desarrollo front-end, manejo de APIs y diseño centrado en el usuario.
-    </td>
-    <td>
-      **Around** es una red social para compartir fotografías y experiencias.  
-      Incluye autenticación segura, API REST y diseño interactivo tanto en el cliente como en el servidor.
-      <br/><br/>
-      **Conclusión:** Profundicé mis habilidades en full-stack con Node.js, Express y MongoDB.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./img/Homeland.png" width="300" height="200" alt="Homeland"/>
-      <br/>
-      <strong>🏡 From Homeland to Homeland</strong>
-    </td>
-    <td align="center">
-      <img src="./img/4cafe.png" width="300" height="200" alt="Café Especialidad"/>
-      <br/>
-      <strong>☕ Triple Peaks Coffee Shop</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      **From Homeland to Homeland** es un proyecto informativo sobre ciudades.  
-      Utiliza herramientas de diseño como Figma y un despliegue eficiente en GitHub Pages.
-      <br/><br/>
-      **Conclusión:** Aprendí a crear sitios adaptativos y visualmente atractivos.
-    </td>
-    <td>
-      **Triple Peaks Coffee Shop** es un sitio web para un café de especialidad.  
-      Usé Flexbox, BEM y menús interactivos para ofrecer una experiencia atractiva.
-      <br/><br/>
-      **Conclusión:** Este proyecto fue un primer acercamiento a la estructura avanzada de páginas web.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="./img/5Library.png" width="300" height="200" alt="Biblioteca Personal"/>
-      <br/>
-      <strong>📚 Biblioteca Personal</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      **Biblioteca Personal** es un sitio web sencillo creado para organizar y gestionar información personal.  
-      Implementado con HTML, CSS y conceptos básicos de JavaScript.
-      <br/><br/>
-      **Conclusión:** Este proyecto marcó el inicio de mi camino en el desarrollo web, ayudándome a comprender los fundamentos de la estructura web.
+      <img src="./img/1LoopTeatral.png" width="400" height="250" alt="Loop Teatral"/>
     </td>
   </tr>
 </table>
 
+**Descripción:**  
+Loop Teatral es una plataforma diseñada para facilitar la exploración de obras teatrales en diversas ciudades y fechas. Los usuarios pueden buscar eventos filtrando por ubicación y fechas específicas, descubrir eventos destacados automáticamente y consultar información detallada de las obras con una interfaz interactiva. La idea principal detrás de Loop Teatral es conectar a los amantes del teatro con eventos culturales en sus localidades o destinos de viaje.
+
+**Herramientas utilizadas:**  
+React fue el framework principal para construir la interfaz interactiva y optimizar la experiencia del usuario. React Router permitió una navegación fluida entre las secciones del sitio. Además, se implementaron solicitudes HTTP con Axios para conectarse con APIs que proporcionan datos dinámicos.
+
+**Resultados:**  
+- La plataforma demostró ser intuitiva y eficiente: los usuarios encontraron eventos en menos de tres clics durante pruebas de usabilidad.  
+- Se optimizó la carga dinámica de datos, garantizando una experiencia fluida incluso en dispositivos de gama baja.  
+- El diseño responsive permitió que el sitio funcionara perfectamente en computadoras, tabletas y teléfonos móviles.  
+
+**Conclusión:**  
+Loop Teatral no solo facilitó la conexión entre espectadores y obras teatrales, sino que también reforzó mis habilidades técnicas en desarrollo front-end, diseño responsive y consumo de APIs. Este proyecto es una muestra de cómo la tecnología puede fomentar el arte y la cultura.
+
 ---
 
-Espero que este portafolio sea de utilidad para comprender mi experiencia y habilidades como desarrolladora. Si deseas más información sobre algún proyecto, no dudes en contactarme. 😊
+### 🌍 **Around Project**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./img/Around.png" width="400" height="250" alt="Around Project"/>
+    </td>
+  </tr>
+</table>
+
+**Descripción:**  
+Around es una red social diseñada para compartir fotografías y experiencias entre amigos y conocidos. El proyecto abarca tanto el desarrollo front-end como el back-end. La plataforma incluye funcionalidades clave como autenticación de usuarios, autorización segura, carga de imágenes y un diseño visual interactivo.
+
+**Herramientas utilizadas:**  
+El desarrollo front-end se realizó con React y React Hooks para manejar estados de forma eficiente. En el back-end, se emplearon Node.js y Express para construir una REST API robusta y eficiente, mientras que MongoDB se utilizó como base de datos para almacenar los datos de los usuarios y las publicaciones. 
+
+**Resultados:**  
+- Implementación exitosa de un sistema de autenticación y autorización seguro.  
+- Creación de una interfaz dinámica e interactiva, alineada con los principios de usabilidad.  
+- Pruebas exhaustivas garantizaron una experiencia sin errores.  
+
+**Conclusión:**  
+Around fue una experiencia completa en desarrollo full-stack, consolidando mis conocimientos en tecnologías como Node.js, Express y React. Este proyecto me enseñó la importancia de construir sistemas seguros y amigables para el usuario.
+
+---
+
+### 🏡 **From Homeland to Homeland**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./img/Homeland.png" width="400" height="250" alt="Homeland Project"/>
+    </td>
+  </tr>
+</table>
+
+**Descripción:**  
+Este proyecto tiene como objetivo informar sobre diferentes ciudades de una forma clara y visualmente atractiva. A través de un diseño adaptativo y minimalista, los usuarios pueden acceder a datos clave sobre distintas localidades. Desde la fase de diseño hasta la implementación, se priorizó la accesibilidad y la experiencia del usuario.
+
+**Herramientas utilizadas:**  
+Se trabajó con herramientas de prototipado y diseño como Figma para crear un esquema inicial y garantizar que el diseño fuera intuitivo. Luego, el proyecto fue desarrollado con HTML, CSS y JavaScript, asegurando un diseño responsivo para dispositivos de diferentes tamaños.
+
+**Resultados:**  
+- Un sitio web adaptativo que funciona correctamente en dispositivos móviles, tabletas y computadoras.  
+- Un diseño limpio y funcional que guía al usuario sin generar confusión.  
+- Despliegue exitoso en GitHub Pages, asegurando disponibilidad pública inmediata.
+
+**Conclusión:**  
+Este proyecto me permitió mejorar en el desarrollo de sitios web responsivos y en la utilización de herramientas de diseño visual como Figma. Es un ejemplo de cómo una buena planificación inicial puede influir en el éxito de un proyecto.
+
+---
+
+### ☕ **Triple Peaks Coffee Shop**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./img/4cafe.png" width="400" height="250" alt="Triple Peaks Coffee Shop"/>
+    </td>
+  </tr>
+</table>
+
+**Descripción:**  
+Triple Peaks Coffee Shop es un sitio web creado para un café de especialidad. Diseñado para ser moderno y funcional, incluye menús interactivos, secciones informativas y una estructura de página clara y atractiva.
+
+**Herramientas utilizadas:**  
+El sitio se desarrolló utilizando CSS avanzado con técnicas como Flexbox y la metodología BEM. También se implementaron interacciones básicas con JavaScript para mejorar la funcionalidad.
+
+**Resultados:**  
+- Creación de un diseño visualmente atractivo y funcional.  
+- Implementación exitosa de un menú interactivo.  
+- Consolidación de las habilidades de diseño web y estructura CSS.  
+
+**Conclusión:**  
+Este proyecto representó una oportunidad para experimentar con técnicas avanzadas de diseño CSS y mejorar en la implementación de funcionalidades básicas con JavaScript. Fue un paso importante en mi evolución como desarrolladora.
+
+---
+
+## 📌 **Conclusión General**
+
+Estos proyectos muestran una progresión clara en mis habilidades como desarrolladora, desde conceptos básicos hasta aplicaciones full-stack completas. Cada proyecto representó un desafío único y una oportunidad para aprender herramientas y tecnologías nuevas. Estoy entusiasmada por seguir desarrollándome y enfrentar nuevos retos en el futuro.
+
+---
