@@ -37,7 +37,7 @@
 
 ### 🎭 **Loop Teatral** & 🌍 **Around Project**
 
-| ![Loop Teatral](img/1LoopTeatral.png) | ![Around Project](img/Around.png) |
+| ![Loop Teatral](img/1LoopTeatral) | ![Around Project](img/Around.png) |
 |:-------------------------------------:|:---------------------------------:|
 | **Loop Teatral** | **Around Project** |
 | **Loop Teatral** es una plataforma para amantes del teatro que buscan obras en su ciudad o en cualquier lugar del mundo. | **Around** es una red social para compartir momentos a través de imágenes y comentarios, con un enfoque en seguridad y funcionalidad. |
