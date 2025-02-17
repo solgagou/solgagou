@@ -38,7 +38,7 @@
 ### 🎭 **Loop Teatral** & 🌍 **Around Project**
 
 | ![Loop Teatral](img/1LoopTeatral) | ![Around Project](img/2Around) |
-|:-------------------------------------:|:---------------------------------:|
+
 | **Loop Teatral** | **Around Project** |
 | **Loop Teatral** es una plataforma para amantes del teatro que buscan obras en su ciudad o en cualquier lugar del mundo. | **Around** es una red social para compartir momentos a través de imágenes y comentarios, con un enfoque en seguridad y funcionalidad. |
 | 🚀 Diseño responsivo y fácil de usar. <br> 🔍 Búsqueda de obras en menos de 3 clics. <br> 📡 Conexión con APIs en tiempo real. | 🔐 Implementación de autenticación y autorización. <br> ⚡ Full-stack con Node.js y MongoDB. <br> 🎨 Diseño minimalista y moderno. |
@@ -46,10 +46,8 @@
 ---
 
 ### 🏡 **From Homeland to Homeland** & ☕ **Triple Peaks Coffee Shop**
-| <img src="img/3Homeland" width="300" height="200" alt="Loop Teatral"/> | <img src="img/2Around.png" width="300" height="200" alt="Around Project"/> |
-|:-------------------------------------:|:---------------------------------:|
 
-| ![Homeland] | ![Café](img/4Cafe) |
+| ![Homeland](img/3Homeland) | ![Café](img/4Cafe) |
 |:-----------------------------:|:----------------------:|
 | **From Homeland to Homeland** | **Triple Peaks Coffee Shop** |
 | Un sitio que resalta la conexión entre ciudades y personas, mostrando cómo las ciudades pueden ser el inicio de nuevas historias. | Un sitio web de café que transmite calidez y profesionalismo a través de su diseño y experiencia de usuario. |
