@@ -36,8 +36,6 @@
 ## 🌟 **Proyectos Destacados**
 
 ### 🎭 **Loop Teatral** & 🌍 **Around Project**
-| <img src="img/1LoopTeatral.png" width="300" height="200" alt="Loop Teatral"/> | <img src="img/2Around.png" width="300" height="200" alt="Around Project"/> |
-|:-------------------------------------:|:---------------------------------:|
 
 | ![Loop Teatral](img/1LoopTeatral) | ![Around Project](img/2Around) |
 |:-------------------------------------:|:---------------------------------:|
@@ -48,10 +46,10 @@
 ---
 
 ### 🏡 **From Homeland to Homeland** & ☕ **Triple Peaks Coffee Shop**
-| <img src="img/1LoopTeatral.png" width="300" height="200" alt="Loop Teatral"/> | <img src="img/2Around.png" width="300" height="200" alt="Around Project"/> |
+| <img src="img/3Homeland" width="300" height="200" alt="Loop Teatral"/> | <img src="img/2Around.png" width="300" height="200" alt="Around Project"/> |
 |:-------------------------------------:|:---------------------------------:|
 
-| ![Homeland](img/3Homeland) | ![Café](img/4Cafe) |
+| ![Homeland] | ![Café](img/4Cafe) |
 |:-----------------------------:|:----------------------:|
 | **From Homeland to Homeland** | **Triple Peaks Coffee Shop** |
 | Un sitio que resalta la conexión entre ciudades y personas, mostrando cómo las ciudades pueden ser el inicio de nuevas historias. | Un sitio web de café que transmite calidez y profesionalismo a través de su diseño y experiencia de usuario. |
